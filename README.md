@@ -1,3 +1,6 @@
+For more info and how it works read the read me in the extension
+
+
 # Discord-Web-Phase-Detect
 About:
 I made this discord web scraper which is a google extension and when a pre-determined phrase is sent in a channel thats open, it opens the pre-determined link.
